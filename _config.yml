@@ -1,0 +1,6 @@
+title: "Himalayan Shilajit & Natural Wellness"
+description: "Unlock your potential with authentic Himalayan Shilajit. Explore expert guides on natural energy, male vitality, anti-aging, brain health, & holistic wellness solutions"
+url: "https://healthdailyhub.github.io"  # Thay bằng URL thực tế
+theme: minima  # Sử dụng theme mặc định của Jekyll
+plugins:
+  - jekyll-feed  # Plugin tạo RSS feed
